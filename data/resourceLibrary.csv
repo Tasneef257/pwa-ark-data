@@ -1,0 +1,50 @@
+Resource Name,Tier,GFI Name,Suggested Base Qty,Stack Size,Image URL
+Cactus Sap,Primitive,CactusSap,1000,100,https://ark.wiki.gg/images/1/10/Cactus_Sap.png
+Fiber,Primitive,Fiber,1000,300,https://ark.wiki.gg/images/4/45/Fiber.png
+Flint,Primitive,Flint,1000,100,https://ark.wiki.gg/images/5/52/Flint.png
+Hide,Primitive,Hide,1000,200,https://ark.wiki.gg/images/a/a2/Hide.png
+Sand,Primitive,Sand,1000,100,https://ark.wiki.gg/images/3/30/Sand.png
+Stone,Primitive,Stone,1000,100,https://ark.wiki.gg/images/d/d4/Stone.png
+Thatch,Primitive,Thatch,1000,200,https://ark.wiki.gg/images/b/bc/Thatch.png
+Wood,Primitive,Wood,1000,100,https://ark.wiki.gg/images/d/d7/Wood.png
+Fungal Wood,Primitive,Wood_Fungal,1000,100,https://ark.wiki.gg/images/d/d7/Fungal_Wood.png
+Bio Toxin,Ramshackle,BioToxin,100,100,https://ark.wiki.gg/images/d/d7/Bio_Toxin.png
+Charcoal,Ramshackle,Charcoal,500,100,https://ark.wiki.gg/images/5/52/Charcoal.png
+Chitin,Ramshackle,Chitin,500,100,https://ark.wiki.gg/images/a/a2/Chitin.png
+Keratin,Ramshackle,Keratin,500,100,https://ark.wiki.gg/images/a/a2/Keratin.png
+Metal,Ramshackle,Metal,900,300,https://ark.wiki.gg/images/d/d4/Metal.png
+Clay,Ramshackle,Clay,500,100,https://ark.wiki.gg/images/3/30/Clay.png
+Silk,Ramshackle,Silk,600,200,https://ark.wiki.gg/images/4/45/Silk.png
+Sparkpowder,Ramshackle,Sparkpowder,1000,100,https://ark.wiki.gg/images/5/52/Sparkpowder.png
+Green Gem,Ramshackle,Gem_Green,500,100,https://ark.wiki.gg/images/b/bb/Green_Gem.png
+Cementing Paste,Apprentice,ChitinPaste,1000,100,https://ark.wiki.gg/images/e/ea/Cementing_Paste.png
+Gunpowder,Apprentice,Gunpowder,1000,100,https://ark.wiki.gg/images/5/52/Gunpowder.png
+Metal Ingot,Apprentice,Ingot,900,300,https://ark.wiki.gg/images/b/bc/Metal_Ingot.png
+Angler Gel,Apprentice,AnglerGel,500,100,https://ark.wiki.gg/images/e/ea/Angler_Gel.png
+Silica Pearls,Apprentice,Silica,500,100,https://ark.wiki.gg/images/e/ea/Silica_Pearls.png
+Raw Salt,Apprentice,RawSalt,500,100,https://ark.wiki.gg/images/5/52/Raw_Salt.png
+Pelt,Journeyman,Pelt,1000,200,https://ark.wiki.gg/images/a/a2/Pelt.png
+Sulfur,Journeyman,Sulfur,500,100,https://ark.wiki.gg/images/5/52/Sulfur.png
+Sap,Journeyman,Sap,300,30,https://ark.wiki.gg/images/1/10/Sap.png
+Oil,Journeyman,Oil,1000,100,https://ark.wiki.gg/images/e/ea/Oil.png
+Blue Gem,Journeyman,Gem_Blue,500,100,https://ark.wiki.gg/images/b/bb/Blue_Gem.png
+Congealed Gas Ball,Journeyman,GasBall,500,100,https://ark.wiki.gg/images/5/5a/Congealed_Gas_Ball.png
+Electronics,Journeyman,Electronics,500,100,https://ark.wiki.gg/images/d/da/Electronics.png
+Crystal,Journeyman,Crystal,1000,100,https://ark.wiki.gg/images/b/bb/Crystal.png
+Giant Bee Honey,Mastercraft,Honey,100,1,https://ark.wiki.gg/images/1/10/Giant_Bee_Honey.png
+Element Dust,Mastercraft,ElementDust,5000,1000,https://ark.wiki.gg/images/b/bc/Element_Dust.png
+Propellant,Mastercraft,Propellant,500,100,https://ark.wiki.gg/images/5/52/Propellant.png
+Gasoline,Mastercraft,Gasoline,500,100,https://ark.wiki.gg/images/e/ea/Gasoline.png
+Obsidian,Mastercraft,Obsidian,1000,100,https://ark.wiki.gg/images/d/d4/Obsidian.png
+Preserving Salt,Mastercraft,PreservingSalt,30,6,https://ark.wiki.gg/images/5/52/Preserving_Salt.png
+Element Ore,Mastercraft,ElementOre,1000,100,https://ark.wiki.gg/images/b/bc/Element_Ore.png
+Leech Blood,Mastercraft,LeechBlood,250,50,https://ark.wiki.gg/images/e/ea/Leech_Blood.png
+Black Pearl,Ascendant,BlackPearl,1000,200,https://ark.wiki.gg/images/e/ea/Black_Pearl.png
+Element,Ascendant,Element,50,100,https://ark.wiki.gg/images/b/bc/Element.png
+Element Shard,Ascendant,ElementShard,1000,1000,https://ark.wiki.gg/images/b/bc/Element_Shard.png
+Polymer,Ascendant,Polymer,500,100,https://ark.wiki.gg/images/d/da/Polymer.png
+Ambergris,Ascendant,Ambergris,100,1,https://ark.wiki.gg/images/b/bb/Ambergris.png
+Red Gem,Ascendant,Gem_Red,500,100,https://ark.wiki.gg/images/b/bb/Red_Gem.png
+Shell Fragment,Ascendant,ShellFragment,1000,100,https://ark.wiki.gg/images/b/bb/Shell_Fragment.png
+Ammonite Bile,Ascendant,AmmoniteBile,100,50,https://ark.wiki.gg/images/e/ea/Ammonite_Bile.png
+Absorbent Substrate,Ascendant,Substrate,100,100,https://ark.wiki.gg/images/e/ea/Absorbent_Substrate.png

@@ -1,0 +1,46 @@
+Card Name,Card Type,Reward Category,Requires Quality?,Requires User input?,Image URL
+Primitive Resource Card,Normal,Primitive Resource Pack,NO,NO,
+Ramshackle Resource Card,Normal,Ramshackle Resource Pack,NO,NO,
+Apprentice Resource Card,Normal,Apprentice Resource Pack,NO,NO,
+Journeyman Resource Card,Normal,Journeyman Resource Pack,NO,NO,
+Mastercraft Resource Card,Normal,Mastercraft Resource Pack,NO,NO,
+Ascendant Resource Card,Normal,Ascendant Resource Pack,NO,NO,
+Recolor Card,Normal,Recolor,NO,YES,RecolorCard.png
+Cryopod Card,Normal,Cryopod,NO,NO,CryopodCard.png
+Mutagen Card,Normal,Mutagen,NO,NO,MutagenCard.png
+Mutated Egg Card,Normal,Mutated Egg,NO,NO,MutatedEggCard.png
+Tame Effectiveness Reset Card,Normal,Reset Effectiveness,NO,NO,TamingResetCard.png
+Kibble Selector Card,Selector,Kibble,NO,YES,KibbleSelectorCard.jpg
+Kibble Draw Card,Draw,Kibble,NO,NO,KibbleDrawCard.jpg
+Tribute Item Selector Card,Selector,ApexDrops,NO,YES ,TributeItemSelectorCard.jpg
+Tribute Item Draw Card,Draw,ApexDrops,NO,NO,TributeItemDrawCard.jpg
+Blueprint Selector Card,Selector,Blueprint,YES,YES ,BlueprintSelectorCard.jpg
+Blueprint Draw Card,Draw,Blueprint,YES,NO,BlueprintCard.jpg
+Saddle Selector Card,Selector,Saddle,YES,YES,SaddleSelectorCard.jpg
+Saddle Draw Card,Draw,Saddle,YES,NO,SaddleDrawCard.jpg
+Skin Draw Card,Draw,Skin,NO,YES,
+Skin Selector Card,Selector,Skin,NO,YES,SkinSelectorCard.jpg
+Boss Teleport Selector Card (Gamma),Selector,BossGamma,NO,YES,BossTeleportCard.png
+Boss Teleport Selector Card (Beta),Selector,BossBeta,NO,YES,BossTeleportCard.png
+Boss Teleport Selector Card (Alpha),Selector,BossAlpha,NO,YES,BossTeleportCard.png
+Mission Bypass Card,Normal,DebugAllowVRMissionTeleport,NO,NO,BossTeleportCard.png
+Hairstyle Selector Card ,Selector,Hairstyle,NO,YES,HairstyleSelectorCard.jpg
+Facial Hairstyle Selector Card ,Selector ,Facial Hairstyle,NO,YES,FacialHairstyleSelectorCard.jpg
+Emote Selector Card,Selector ,Emote,NO,YES,EmoteSelectorCard.jpg
+Emote Draw Card,Draw,Emote,NO,NO,EmoteDrawCard.jpg
+Dino Costume Draw Card,Selector,Costume,NO,NO,DinoCostumeSelectorCard.jpg
+Tame License Selector Card,Selector,Tames,NO,YES,TameLicenseCard.jpg
+Tame License Draw Card,Draw,Tames,NO,NO,TameLicenseCard.jpg
+Chibi License Selector Card,Selector,Chibi,NO,YES,ChibiCard.jpg
+Chibi License Draw Card,Draw,Chibi,NO,NO,ChibiCard.jpg
+Insta Growth Card,Normal,Growth,NO,NO,
+Insta Imprint Card,Normal,Imprint,NO,NO,
+Space Crate Selector Card,Normal,Crate,NO,YES,
+Insta Level Card,Normal,Level UP,NO,YES,
+Insta Level AOE Card,Normal,Level Up AOE,NO,YES,
+Insta Heal Card,Normal,Healing,NO,NO,
+Time Selector Card,Normal,Time,NO,YES,
+Wild Wipe Card,Normal,Wipe,NO,NO,
+Weather Control Card,Selector,Weather,NO,YES,
+Start Horde,Normal,Horde,NO,YES,
+Teleport To Horde,Normal,Teleport,NO,YES,
